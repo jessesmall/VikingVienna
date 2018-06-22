@@ -1,6 +1,5 @@
-# README #
-
-Viking Vienna
+<<<<<<< HEAD
+# Viking Vienna #
 
 # What is this game? #
 
