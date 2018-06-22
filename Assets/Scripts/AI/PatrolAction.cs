@@ -6,7 +6,14 @@ public class PatrolAction : Action
     private float nextPointDistance = 0.5f;
     public override void Act(StateController controller)
     {
-        Patrol(controller);
+        if(controller.wayPointList != null && controller.wayPointList.Count > 1)
+        {
+            Patrol(controller);
+        }
+        else
+        {
+            controller.rb.velocity = new Vector2(0, 0);
+        }
     }
 
     private void Patrol(StateController controller)
@@ -14,11 +21,13 @@ public class PatrolAction : Action
         if((controller.path == null || controller.currentTarget != controller.wayPointList[controller.currentWayPoint]))
         {
             controller.pathCompleted = false;
+            controller.currentTarget = controller.wayPointList[controller.currentWayPoint];
             PathRequestManager.RequestPath(new PathRequest(controller.transform.position, controller.wayPointList[controller.currentWayPoint].position, controller, OnPathFound));
         }
 
         if (!controller.pathCompleted)
         {
+            controller.rb.velocity = new Vector2(0, 0);
             return;
         }
 
@@ -47,7 +56,6 @@ public class PatrolAction : Action
         {
             controller.path = newPath;
             controller.currentPathPoint = 0;
-            controller.currentTarget = controller.wayPointList[controller.currentWayPoint];
             controller.pathCompleted = true;
 
             var lineRenderer = controller.GetComponent<LineRenderer>();

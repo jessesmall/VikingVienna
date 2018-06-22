@@ -169,7 +169,7 @@ MonoBehaviour:
   Loot: {fileID: 114599020340638336, guid: 58da832a6c05ce143a8e6094a33bd88c, type: 2}
   KeyType: 0
   KeyRequired: 1
-  OpenSound: {fileID: 0}
+  OpenSound: {fileID: 8300000, guid: 4bd61bcb216ee5344b44ba578f0dec08, type: 3}
   isTrap: 0
   trapEffect: {fileID: 0}
 --- !u!114 &114078047156687274

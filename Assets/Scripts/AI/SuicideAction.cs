@@ -20,7 +20,6 @@ public class SuicideAction : Action
             RaycastHit2D hit = Physics2D.Raycast(controller.eyes.position, direction, controller.enemyStats.lookDistance, layerMask);
             if (hit.collider != null && hit.collider.GetComponentInParent<PlayerController>())
             {
-                Debug.Log("DISTANCE: " + distanceToPlayer);
                 Instantiate(controller.enemyStats.destroyEffect, controller.effectLocation.position, controller.effectLocation.rotation);
                 SoundManager.instance.RandomSfx(controller.transform, controller.audioClips.deathAudio);
                 controller.TransitionToState(controller.deadState);

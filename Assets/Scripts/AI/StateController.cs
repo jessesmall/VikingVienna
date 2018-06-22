@@ -22,11 +22,11 @@ public class StateController : MonoBehaviour
     [HideInInspector] public Animator anim;
     [HideInInspector] public Rigidbody2D rb;
 
-    [HideInInspector] public int currentWayPoint;
+    public int currentWayPoint;
 
-    [HideInInspector] public Vector3[] path;
+    public Vector3[] path;
     [HideInInspector] public bool pathCompleted;
-    [HideInInspector] public int currentPathPoint;
+    public int currentPathPoint;
 
     public Transform chaseTarget;
     [HideInInspector] public float stateTimeElapsed;

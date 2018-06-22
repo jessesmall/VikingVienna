@@ -20,7 +20,6 @@ public class ChaseAction : Action
             controller.anim.SetBool("Chase", false);
             return;
         }
-        controller.currentTarget = controller.chaseTarget;
         if (controller.chasePathUpdate)
         {
             controller.chasePathUpdate = false;
@@ -40,10 +39,11 @@ public class ChaseAction : Action
         controller.rb.velocity = new Vector2((controller.isFacingRight ? 1 : -1)*controller.enemyStats.speed, controller.rb.velocity.y);
         //Handle Animation
         controller.anim.SetBool("Chase", true);
-
+        Debug.Log(dist);
         //Check to update next point along the path
         if (dist < nextPointDistance)
         {
+            Debug.Log("WALKING, PLAY SOUND EFFECT");
             SoundManager.instance.RandomSfx(controller.transform, controller.audioClips.walkAudio);
             controller.currentPathPoint = (controller.currentPathPoint + 1) % controller.path.Length;
             if(controller.currentPathPoint > 2 || controller.currentPathPoint == 0)
@@ -59,6 +59,7 @@ public class ChaseAction : Action
         {
             controller.path = newPath;
             controller.currentPathPoint = 0;
+            controller.currentTarget = controller.chaseTarget;
             controller.pathCompleted = true;
 
             var lineRenderer = controller.GetComponent<LineRenderer>();

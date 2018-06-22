@@ -14,7 +14,7 @@ public class Node : IHeapItem<Node> {
     }
     private int _tileX
     {
-        get { return (int)(_path.gameObject.transform.position.x + (x * _path.size)); }
+        get { return (int)Math.Floor(_path.gameObject.transform.position.x + (x * _path.size)); }
     }
     public int y;
     public float YCoordinate
@@ -23,7 +23,7 @@ public class Node : IHeapItem<Node> {
     }
     private int _tileY
     {
-        get { return (int)(_path.gameObject.transform.position.y + (y * _path.size)); }
+        get { return (int)Mathf.Floor(_path.gameObject.transform.position.y + (y * _path.size)); }
     }
 
     // Heap
@@ -90,17 +90,31 @@ public class Node : IHeapItem<Node> {
         {
             if (_path.unWalkableMask == (_path.unWalkableMask.value | (1 << tileMap.gameObject.layer)))
             {
-                if(tileMap.HasTile(new Vector3Int(_tileX, _tileY, 0)))
-                {
-                    walkable = false;
-                }
                 if(XCoordinate % 1 == 0)
                 {
-                    if(tileMap.HasTile(new Vector3Int((_tileX - 1), _tileY, 0)))
+                    if (tileMap.HasTile(new Vector3Int(_tileX, _tileY, 0)) || tileMap.HasTile(new Vector3Int(_tileX - 1, _tileY,0)))
                     {
                         walkable = false;
                     }
                 }
+                if(tileMap.HasTile(new Vector3Int(_tileX, _tileY, 0)))
+                {
+                    walkable = false;
+                }
+                //if(XCoordinate % 1 == 0)
+                //{
+                //    if(tileMap.HasTile(new Vector3Int((_tileX - 1), _tileY, 0)))
+                //    {
+                //        walkable = false;
+                //    }
+                //}
+                //if (YCoordinate % 1 == 0)
+                //{
+                //    if (tileMap.HasTile(new Vector3Int((_tileX), (_tileY - 1), 0)))
+                //    {
+                //        walkable = false;
+                //    }
+                //}
             }
         }
     }
