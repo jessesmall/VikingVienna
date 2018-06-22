@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca83faa24ec2e5e4889f75efa7e20360, type: 3}
+  m_Name: WarriorSkeletonAudio
+  m_EditorClassIdentifier: 
+  meleeAttackAudio:
+  - {fileID: 8300000, guid: 7032503d3db2e164faaee7434f7beb4d, type: 3}
+  - {fileID: 8300000, guid: 3c68c0ac17ba69b41883f3a26990b5db, type: 3}
+  rangedAttackAudio: []
+  jumpAudio: []
+  deathAudio:
+  - {fileID: 8300000, guid: a41c8cebabf775043b39e6f07d78ad11, type: 3}
+  hurtAudio:
+  - {fileID: 8300000, guid: b9a108114c7427e4a984a93f0ac76634, type: 3}
+  walkAudio:
+  - {fileID: 8300000, guid: fe4f0667029b14341b8ba1914f12a297, type: 3}
+  - {fileID: 8300000, guid: ec61de00b74ec66428838a22b0f4aca8, type: 3}
+  - {fileID: 8300000, guid: 287c208d099ce7b42aa09e34ee15c3a2, type: 3}
+  specialAudio: []

@@ -1,0 +1,14 @@
+Druid: Stop right there! -0.00
+Viking Vienna: You must let me pass, the Yeti took my boyfriend. -3.00
+Druid: Ah... well I am afraid I can't do that. -7.00
+Viking Vienna: What? Why not! Get out of my way. -11.00
+Druid: The Yeti has brought evil to this land! What if you are a spy! -14.00
+Viking Vienna: A spy? Really? I AM NOT A SPY! -17.00
+Druid: Well then prove it! Bring me the <color=ff0000ff><i>sacred stone</i></color>. -21.00
+Druid: With that stone I can bring peace back to these lands and help you defeat the Yeti! -25.00
+Viking Vienna: Okay... Where is this stone? -29.00
+Druid: You must travel deep into the forest and find Bjorn, he will help you. -32.00
+Viking Vienna: Ok, find Bjorn and get a stone... got it. -36.00
+Druid: Good luck! You will need it... spy! -40.00
+Viking Vienna: I AM NOT A SPY! -44.00
+-47.00

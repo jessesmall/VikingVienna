@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc9de55943f45a42aa7a1c899970d0e, type: 3}
+  m_Name: GnomeEnemyStats
+  m_EditorClassIdentifier: 
+  attackRange: 1
+  attackSpeed: 2
+  lookDistance: 5
+  fov: 45
+  speed: 1
+  jumpHeight: 1
+  maxHealth: 2
+  hurtEffect: {fileID: 1245910173362432, guid: a699ae25fd284664d8c238dd0c90a888, type: 2}
+  destroyEffect: {fileID: 1245910173362432, guid: ba2213c20c7488248b2e648834eb6669,
+    type: 2}

@@ -1,0 +1,450 @@
+fileFormatVersion: 2
+guid: 9d699a529a3798b44aeab77373b3b72a
+timeCreated: 1517992757
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Elder futhark - transparent_0
+    21300002: Elder futhark - transparent_1
+    21300004: Elder futhark - transparent_2
+    21300006: Elder futhark - transparent_3
+    21300008: Elder futhark - transparent_4
+    21300010: Elder futhark - transparent_5
+    21300012: Elder futhark - transparent_6
+    21300014: Elder futhark - transparent_7
+    21300016: Elder futhark - transparent_23
+    21300018: Elder futhark - transparent_24
+    21300020: Elder futhark - transparent_25
+    21300022: Elder futhark - transparent_26
+    21300024: Elder futhark - transparent_27
+    21300026: Elder futhark - transparent_29
+    21300028: Elder futhark - transparent_30
+    21300030: Elder futhark - transparent_31
+    21300032: Elder futhark - transparent_32
+    21300034: Elder futhark - transparent_39
+    21300036: Elder futhark - transparent_47
+    21300038: Elder futhark - transparent_49
+    21300040: Elder futhark - transparent_50
+    21300042: Elder futhark - transparent_51
+    21300044: Elder futhark - transparent_52
+    21300046: Elder futhark - transparent_53
+    21300048: Elder futhark - transparent_54
+    21300050: Elder futhark - transparent_55
+    21300052: Elder futhark - transparent_56
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 256
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elder futhark - transparent_0
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2034
+        width: 136
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elder futhark - transparent_1
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 2001
+        width: 185
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elder futhark - transparent_2
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 2029
+        width: 109
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elder futhark - transparent_3
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 1994
+        width: 161
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elder futhark - transparent_4
+      rect:
+        serializedVersion: 2
+        x: 2845
+        y: 1963
+        width: 173
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elder futhark - transparent_5
+      rect:
+        serializedVersion: 2
+        x: 3467
+        y: 2067
+        width: 168
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elder futhark - transparent_6
+      rect:
+        serializedVersion: 2
+        x: 4097
+        y: 2069
+        width: 240
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elder futhark - transparent_7
+      rect:
+        serializedVersion: 2
+        x: 4829
+        y: 2001
+        width: 154
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elder futhark - transparent_24
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1173
+        width: 153
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elder futhark - transparent_25
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1090
+        width: 145
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elder futhark - transparent_26
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1114
+        width: 42
+        height: 383
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elder futhark - transparent_27
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 1160
+        width: 266
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elder futhark - transparent_29
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 1113
+        width: 238
+        height: 389
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elder futhark - transparent_30
+      rect:
+        serializedVersion: 2
+        x: 3441
+        y: 1110
+        width: 265
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elder futhark - transparent_31
+      rect:
+        serializedVersion: 2
+        x: 4064
+        y: 1148
+        width: 291
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elder futhark - transparent_32
+      rect:
+        serializedVersion: 2
+        x: 4789
+        y: 1090
+        width: 194
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elder futhark - transparent_49
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 262
+        width: 200
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elder futhark - transparent_50
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 290
+        width: 165
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elder futhark - transparent_51
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 303
+        width: 334
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elder futhark - transparent_52
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 320
+        width: 240
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elder futhark - transparent_53
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 237
+        width: 121
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elder futhark - transparent_54
+      rect:
+        serializedVersion: 2
+        x: 3441
+        y: 375
+        width: 241
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elder futhark - transparent_55
+      rect:
+        serializedVersion: 2
+        x: 4110
+        y: 375
+        width: 197
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elder futhark - transparent_56
+      rect:
+        serializedVersion: 2
+        x: 4727
+        y: 363
+        width: 253
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

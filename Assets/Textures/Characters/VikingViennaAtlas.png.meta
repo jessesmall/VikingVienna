@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: 4402655045eff394eba7168690addcf4
+timeCreated: 1512334806
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: L_BROW
+    21300002: Dress
+    21300004: R_BICEP
+    21300006: R_FOREARM
+    21300008: R_HAND
+    21300010: Hat
+    21300012: Head
+    21300014: L_THIGH
+    21300016: L_SHIN
+    21300018: L_FOREARM
+    21300020: R_THIGH
+    21300022: R_SHIN
+    21300024: Torso
+    21300026: L_BICEP
+    21300028: L_HAND
+    21300030: L_FOOT
+    21300032: VikingViennaAtlas_17
+    21300034: VikingViennaAtlas_18
+    21300036: R_FOOT
+    21300038: R_BROW
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: L_BROW
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1844
+        width: 128
+        height: 38
+      alignment: 9
+      pivot: {x: 0.84543884, y: 0.29938066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dress
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1314
+        width: 472
+        height: 383
+      alignment: 9
+      pivot: {x: 0.46123648, y: 0.9538259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: R_BICEP
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1653
+        width: 181
+        height: 268
+      alignment: 9
+      pivot: {x: 0.07038938, y: 0.9551328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: R_FOREARM
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1692
+        width: 166
+        height: 189
+      alignment: 9
+      pivot: {x: 0.13260292, y: 0.919493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: R_HAND
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1523
+        width: 97
+        height: 94
+      alignment: 9
+      pivot: {x: 0.09131866, y: 0.87306374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hat
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 877
+        width: 527
+        height: 430
+      alignment: 9
+      pivot: {x: 0.4912831, y: 0.013907357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Head
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 710
+        width: 368
+        height: 542
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08468954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: L_THIGH
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1080
+        width: 416
+        height: 344
+      alignment: 9
+      pivot: {x: 0.50870925, y: 0.9212767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: L_SHIN
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 758
+        width: 112
+        height: 239
+      alignment: 9
+      pivot: {x: 0.69408745, y: 0.8941316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: L_FOREARM
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 496
+        width: 72
+        height: 214
+      alignment: 9
+      pivot: {x: 0.6262221, y: 0.94266033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: R_THIGH
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 259
+        width: 224
+        height: 394
+      alignment: 9
+      pivot: {x: 0.32935688, y: 0.93867904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: R_SHIN
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 440
+        width: 133
+        height: 216
+      alignment: 9
+      pivot: {x: 0.35005224, y: 0.946256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Torso
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 71
+        width: 363
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: L_BICEP
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 109
+        width: 112
+        height: 299
+      alignment: 9
+      pivot: {x: 0.79677117, y: 0.955777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: L_HAND
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 257
+        width: 83
+        height: 114
+      alignment: 9
+      pivot: {x: 0.38900316, y: 0.9242717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: L_FOOT
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 71
+        width: 171
+        height: 104
+      alignment: 9
+      pivot: {x: 0.18899769, y: 0.9474395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VikingViennaAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 252
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: R_FOOT
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 128
+        width: 164
+        height: 69
+      alignment: 9
+      pivot: {x: 0.084520295, y: 0.86128765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: R_BROW
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1838
+        width: 139
+        height: 49
+      alignment: 9
+      pivot: {x: 0.14899099, y: 0.5933464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

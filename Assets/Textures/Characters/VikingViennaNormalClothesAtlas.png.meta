@@ -1,0 +1,353 @@
+fileFormatVersion: 2
+guid: 94c4e69f735f1554a86df6156a9605a9
+timeCreated: 1486357139
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: L_Brow
+    21300002: R_Brow
+    21300004: VV_PonyTail
+    21300006: VV_Hips
+    21300008: VV_Torso
+    21300010: VV_L_Bicep
+    21300012: VV_Face
+    21300014: VV_L_Forearm
+    21300016: VV_R_Forearm
+    21300018: VV_L_Thigh
+    21300020: VV_R_Thigh
+    21300022: VV_L_Shin
+    21300024: VV_R_Shin
+    21300026: VV_L_Foot
+    21300028: VV_R_Foot
+    21300030: VikingViennaNormalClothesAtlas_15
+    21300032: VV_L_hand
+    21300034: VV_R_Hand
+    21300036: VV_R_Bicep
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: L_Brow
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 984
+        width: 126
+        height: 32
+      alignment: 9
+      pivot: {x: 0.95287925, y: 0.46570778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: R_Brow
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 975
+        width: 134
+        height: 40
+      alignment: 9
+      pivot: {x: 0.049590383, y: 0.69203794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VV_PonyTail
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 789
+        width: 507
+        height: 214
+      alignment: 9
+      pivot: {x: 0.8657872, y: 0.39744297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VV_Hips
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 732
+        width: 312
+        height: 238
+      alignment: 9
+      pivot: {x: 0.4683453, y: 0.9887408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VV_Torso
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 250
+        width: 346
+        height: 494
+      alignment: 9
+      pivot: {x: 0.52854383, y: 0.0090750875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VV_L_Bicep
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 81
+        height: 310
+      alignment: 9
+      pivot: {x: 0.3551896, y: 0.9697299}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VV_Face
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 354
+        width: 502
+        height: 367
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VV_L_Forearm
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 57
+        height: 218
+      alignment: 9
+      pivot: {x: 0.48662567, y: 0.965102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VV_R_Forearm
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 117
+        width: 60
+        height: 216
+      alignment: 9
+      pivot: {x: 0.48729414, y: 0.95882064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VV_L_Thigh
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3
+        width: 183
+        height: 333
+      alignment: 9
+      pivot: {x: 0.49166837, y: 0.97618127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VV_R_Thigh
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1
+        width: 182
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5041888, y: 0.96512294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VV_L_Shin
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1
+        width: 100
+        height: 239
+      alignment: 9
+      pivot: {x: 0.5575281, y: 0.92123264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VV_R_Shin
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 0
+        width: 101
+        height: 237
+      alignment: 9
+      pivot: {x: 0.5284786, y: 0.93692416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VV_L_Foot
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 118
+        width: 156
+        height: 86
+      alignment: 9
+      pivot: {x: 0.13122872, y: 0.8902116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VV_R_Foot
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 20
+        width: 160
+        height: 77
+      alignment: 9
+      pivot: {x: 0.11048508, y: 0.8735604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VV_L_hand
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 83
+        height: 110
+      alignment: 9
+      pivot: {x: 0.4152075, y: 0.9052065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VV_R_Hand
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 3
+        width: 78
+        height: 112
+      alignment: 9
+      pivot: {x: 0.319544, y: 0.9189165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VV_R_Bicep
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 335
+        width: 86
+        height: 317
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9702235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

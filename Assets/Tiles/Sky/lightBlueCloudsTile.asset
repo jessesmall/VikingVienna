@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d1514134bc4fbd41bb739b1b9a49231, type: 3}
+  m_Name: lightBlueCloudsTile
+  m_EditorClassIdentifier: 
+  m_DefaultSprite: {fileID: 21300000, guid: d554a8dbd4ccbfd40ba5acdd01620e81, type: 3}
+  m_DefaultColliderType: 2
+  m_TilingRules:
+  - m_Neighbors: 0000000000000000000000000000000000000000000000000000000000000000
+    m_Sprites:
+    - {fileID: 21300000, guid: d554a8dbd4ccbfd40ba5acdd01620e81, type: 3}
+    - {fileID: 21300000, guid: 42cca85b91f0cd94db00e40f93daae16, type: 3}
+    - {fileID: 21300000, guid: 8631c3e2772157e4da5373ceec02bed2, type: 3}
+    - {fileID: 21300000, guid: 547130a3c80680e46941a555700a3f74, type: 3}
+    - {fileID: 21300000, guid: aa53880be52c4c54fac96a364783714d, type: 3}
+    m_AnimationSpeed: 1
+    m_PerlinScale: 0.5
+    m_RuleTransform: 0
+    m_Output: 1
+    m_ColliderType: 1
+    m_RandomTransform: 0

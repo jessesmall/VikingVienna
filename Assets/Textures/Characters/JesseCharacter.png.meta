@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: de494711a817f664e83ac2833cd7beda
+timeCreated: 1487220262
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Face
+    21300002: TORSO
+    21300004: L_THIGH
+    21300006: R_THIGH
+    21300008: L_BROW
+    21300010: R_BROW
+    21300012: L_SHOE
+    21300014: R_BICEP
+    21300016: L_FOREARM
+    21300018: R_SHOE
+    21300020: R_FOREARM
+    21300022: R_SHIN
+    21300024: JesseCharacter_12
+    21300026: L_BICEP
+    21300028: L_SHIN
+    21300030: L_HAND
+    21300032: R_HAND
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Face
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 716
+        width: 218
+        height: 304
+      alignment: 9
+      pivot: {x: 0.5076616, y: 0.029332614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TORSO
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 704
+        width: 217
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5782454, y: 0.016418263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: L_THIGH
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 807
+        width: 106
+        height: 212
+      alignment: 9
+      pivot: {x: 0.51086485, y: 0.92370087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: R_THIGH
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 807
+        width: 106
+        height: 212
+      alignment: 9
+      pivot: {x: 0.48627055, y: 0.9645271}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: L_BROW
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 692
+        width: 67
+        height: 14
+      alignment: 9
+      pivot: {x: 0.9128297, y: 0.35182407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: R_BROW
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 692
+        width: 67
+        height: 14
+      alignment: 9
+      pivot: {x: 0.07684941, y: 0.37651715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: L_SHOE
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 626
+        width: 116
+        height: 68
+      alignment: 9
+      pivot: {x: 0.25095236, y: 0.93204725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: R_BICEP
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 506
+        width: 118
+        height: 176
+      alignment: 9
+      pivot: {x: 0.14504313, y: 0.94811594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: L_FOREARM
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 537
+        width: 68
+        height: 145
+      alignment: 9
+      pivot: {x: 0.30997154, y: 0.9763141}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: R_SHOE
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 548
+        width: 116
+        height: 68
+      alignment: 9
+      pivot: {x: 0.22984669, y: 0.91764563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: R_FOREARM
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 356
+        width: 101
+        height: 139
+      alignment: 9
+      pivot: {x: 0.21512102, y: 0.90064204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: R_SHIN
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 388
+        width: 65
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9382949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesseCharacter_12
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 372
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: L_BICEP
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 165
+        width: 97
+        height: 183
+      alignment: 9
+      pivot: {x: 0.16758038, y: 0.9405016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: L_SHIN
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 239
+        width: 64
+        height: 109
+      alignment: 9
+      pivot: {x: 0.52887607, y: 0.9408239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: L_HAND
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 75
+        width: 55
+        height: 81
+      alignment: 9
+      pivot: {x: 0.23118986, y: 0.9220901}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: R_HAND
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 77
+        width: 64
+        height: 79
+      alignment: 9
+      pivot: {x: 0.2545532, y: 0.9093827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

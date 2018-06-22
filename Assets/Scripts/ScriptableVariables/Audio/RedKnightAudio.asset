@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca83faa24ec2e5e4889f75efa7e20360, type: 3}
+  m_Name: RedKnightAudio
+  m_EditorClassIdentifier: 
+  meleeAttackAudio:
+  - {fileID: 8300000, guid: 7032503d3db2e164faaee7434f7beb4d, type: 3}
+  - {fileID: 8300000, guid: 3c68c0ac17ba69b41883f3a26990b5db, type: 3}
+  rangedAttackAudio: []
+  jumpAudio:
+  - {fileID: 8300000, guid: f500cc590eb5f5645b8e744d9bd04754, type: 3}
+  deathAudio:
+  - {fileID: 8300000, guid: 783c99466f6b3784e8e1ed00f84619d5, type: 3}
+  hurtAudio:
+  - {fileID: 8300000, guid: 2723db34a99eda941a2a0f81c3715c3d, type: 3}
+  walkAudio:
+  - {fileID: 8300000, guid: cb96ffb97f264094f8d8cae35c1767aa, type: 3}
+  - {fileID: 8300000, guid: 2e67f52de9dff4d45a8a84c299921d95, type: 3}
+  specialAudio: []

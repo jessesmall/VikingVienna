@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca83faa24ec2e5e4889f75efa7e20360, type: 3}
+  m_Name: TrollAudio
+  m_EditorClassIdentifier: 
+  meleeAttackAudio:
+  - {fileID: 8300000, guid: d7b6339d0d0576c499e3fb1b0bbeef76, type: 3}
+  - {fileID: 8300000, guid: 25d8a55e6a0798040a37de48f0317d9f, type: 3}
+  - {fileID: 8300000, guid: ae848354a172b3248bbe5ebbf7b5363f, type: 3}
+  rangedAttackAudio: []
+  jumpAudio:
+  - {fileID: 8300000, guid: 8a5a62616197e7a4e8b209ddefafd75a, type: 3}
+  deathAudio:
+  - {fileID: 8300000, guid: 130dee889cb8b544b8b52d01c0ffd295, type: 3}
+  hurtAudio:
+  - {fileID: 8300000, guid: 6dfac4eef1f024748b9c691b14577c0b, type: 3}
+  walkAudio:
+  - {fileID: 8300000, guid: 5f1872131d3adb94084d38e3f0089b84, type: 3}
+  - {fileID: 8300000, guid: 1cafb036673a8574ca5f95c67589403b, type: 3}
+  specialAudio: []

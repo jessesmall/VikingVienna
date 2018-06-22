@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: c08f2bbfc7ecc3b4eaba95508ea96cc0
+timeCreated: 1486806444
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: L_forearm
+    21300002: R_Forearm
+    21300004: L_Foot
+    21300006: R_Foot
+    21300008: R_Hand
+    21300010: L_Bicep
+    21300012: R_Bicep
+    21300014: L_Shin
+    21300016: R_Shin
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: L_forearm
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1562
+        width: 287
+        height: 484
+      alignment: 9
+      pivot: {x: 0.3827956, y: 0.90384716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: R_Forearm
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1660
+        width: 437
+        height: 388
+      alignment: 9
+      pivot: {x: 0.13106741, y: 0.8205475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: L_Foot
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1796
+        width: 385
+        height: 250
+      alignment: 9
+      pivot: {x: 0.40874246, y: 0.7623335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: R_Foot
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1789
+        width: 405
+        height: 252
+      alignment: 9
+      pivot: {x: 0.37261435, y: 0.7232463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: R_Hand
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1267
+        width: 267
+        height: 288
+      alignment: 9
+      pivot: {x: 0.11527383, y: 0.7675044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: L_Bicep
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1137
+        width: 348
+        height: 499
+      alignment: 9
+      pivot: {x: 0.5248286, y: 0.9181759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: R_Bicep
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1185
+        width: 459
+        height: 466
+      alignment: 9
+      pivot: {x: 0.13258511, y: 0.85686916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: L_Shin
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 551
+        width: 407
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5246321, y: 0.9553153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: R_Shin
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 563
+        width: 420
+        height: 618
+      alignment: 9
+      pivot: {x: 0.49999946, y: 0.9165654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

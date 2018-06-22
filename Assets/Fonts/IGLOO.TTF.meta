@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f7fd35a2548017a4687b2136db9154e5
+timeCreated: 1510813373
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: IglooLaser
+  fontNames:
+  - IglooLaser
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

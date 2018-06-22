@@ -1,0 +1,5 @@
+Viking Vienna: There seems to be a rope leading down. -0.00
+Viking Vienna: But that looks like <color=#00ff00ff>poisionous gas.</color> -3.00
+Viking Vienna: I'll never be able to make it down without dying. -6.00
+Viking Vienna: Maybe there is a <color=#ffffffff><i>switch</i></color> that can get rid of it. -9.00
+-13.00
