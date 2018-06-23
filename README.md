@@ -42,8 +42,8 @@ The short answer is sure. The long answer is if you find anything interesting ab
   - TBD
 - [ ] Levels
   - [x] Chapter 1 (Mountains)
-  - [ ]Chapter 2 (Forest)
-  - [ ]Chapter 3 (Hell)
+  - [ ] Chapter 2 (Forest)
+  - [ ] Chapter 3 (Hell)
 - [ ] Bosses
   - [ ] Fenrir
   - [ ] Bjorn
