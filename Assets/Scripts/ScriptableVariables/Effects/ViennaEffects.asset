@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bce6ba4d42acd24a8f935e655d3bb3a, type: 3}
+  m_Name: ViennaEffects
+  m_EditorClassIdentifier: 
+  stunEffect: {fileID: 1707993081009208, guid: 99c01b71ee16ee34bb585cd4d12e45b1, type: 2}
+  poisonEffect: {fileID: 0}
+  burnEffect: {fileID: 0}
+  freezeEffect: {fileID: 0}
+  hurtEffect: {fileID: 0}
+  deathEffect: {fileID: 0}

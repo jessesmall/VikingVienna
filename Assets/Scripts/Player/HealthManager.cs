@@ -24,6 +24,7 @@ public class HealthManager : MonoBehaviour {
 
     public enum PlayerStatus { None, Poison, Frozen, Burning, Stunned};
     public PlayerStatus playerStatus = PlayerStatus.None;
+    public ScriptableEffects effects;
     private float infectedTime;
 
     public ScriptableInt health;
@@ -84,6 +85,10 @@ public class HealthManager : MonoBehaviour {
                     break;
                 case PlayerStatus.Stunned:
                     _playerInput.DisablePlayerInput();
+                    if(effects.stunEffect != null)
+                    {
+                        Instantiate(effects.stunEffect, Player.projectileFireLocation.position, Player.projectileFireLocation.rotation);
+                    }
                     break;
                 case PlayerStatus.Poison:
                     foreach (SpriteRenderer sprite in GetComponentsInChildren<SpriteRenderer>())

@@ -39,7 +39,6 @@ public class ChaseAction : Action
         controller.rb.velocity = new Vector2((controller.isFacingRight ? 1 : -1)*controller.enemyStats.speed, controller.rb.velocity.y);
         //Handle Animation
         controller.anim.SetBool("Chase", true);
-        Debug.Log(dist);
         //Check to update next point along the path
         if (dist < nextPointDistance)
         {

@@ -15,6 +15,9 @@ public class StateController : MonoBehaviour
 
     public bool isGrounded;
 
+    [HideInInspector]
+    public bool isDead = false;
+
     public LayerMask WhatIsGround;
 
     public List<Transform> wayPointList;

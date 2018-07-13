@@ -17,18 +17,20 @@ MonoBehaviour:
   - m_Neighbors: 0000000002000000000000000000000000000000000000000000000000000000
     m_Sprites:
     - {fileID: 21300000, guid: 4133bbf070341b5458f317f6d35f354d, type: 3}
-    m_AnimationSpeed: 1
+    - {fileID: 21300000, guid: 6b40d0d38f90def4c83e046fde9ca97b, type: 3}
+    m_AnimationSpeed: 3
     m_PerlinScale: 0.5
     m_RuleTransform: 0
-    m_Output: 0
+    m_Output: 2
     m_ColliderType: 1
     m_RandomTransform: 0
   - m_Neighbors: 0000000000000000000000000000000000000000000000000000000000000000
     m_Sprites:
     - {fileID: 21300000, guid: 778646787c2ca844a871794304f32a0a, type: 3}
-    m_AnimationSpeed: 1
+    - {fileID: 21300000, guid: 2ef43385c6d2f3e4685d1e207c1e4ffa, type: 3}
+    m_AnimationSpeed: 3
     m_PerlinScale: 0.5
     m_RuleTransform: 0
-    m_Output: 0
+    m_Output: 2
     m_ColliderType: 2
     m_RandomTransform: 0

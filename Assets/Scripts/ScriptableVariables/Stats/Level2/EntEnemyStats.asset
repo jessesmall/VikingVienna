@@ -17,7 +17,7 @@ MonoBehaviour:
   fov: 45
   speed: 2
   jumpHeight: 1
-  maxHealth: 2
+  maxHealth: 1
   hurtEffect: {fileID: 1245910173362432, guid: a699ae25fd284664d8c238dd0c90a888, type: 2}
   destroyEffect: {fileID: 1119982111310040, guid: b569fde60bafe7744bd5654c076c94cf,
     type: 2}

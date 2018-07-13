@@ -12,16 +12,20 @@ public class DieAction : Action
 
     private void Die(StateController controller)
     {
-        if (controller.IsActive && controller.isGrounded)
+        if (!controller.isDead)
         {
             controller.tag = "Untagged";
             controller.healthBar.gameObject.SetActive(false);
-            controller.rb.isKinematic = true;
-            controller.rb.simulated = false;
-            controller.IsActive = false;
             controller.anim.SetBool("IsDead", true);
             controller.anim.SetTrigger("Died");
             SoundManager.instance.PlaySingle(controller.transform, controller.audioClips.deathAudio[0]);
+            controller.isDead = true;
+        }
+        if (controller.isGrounded)
+        {
+            controller.rb.isKinematic = true;
+            controller.rb.simulated = false;
+            controller.IsActive = false;
         }
     }
 }

@@ -13,11 +13,19 @@ public class TrickPlatform : MonoBehaviour, IPlayerRespawnListener {
 
     private bool _effectTriggered;
 
+    private SpriteRenderer[] renders;
+
+    public void Start()
+    {
+        renders = GetComponentsInChildren<SpriteRenderer>();
+    }
+
     public void OnTriggerEnter2D(Collider2D collision)
     {
         var player = collision.gameObject.GetComponentInParent<PlayerController>();
         if(player != null && !_effectTriggered)
         {
+            _effectTriggered = true;
             switch (Trick)
             {
                 case TrickType.Fade:
@@ -36,7 +44,7 @@ public class TrickPlatform : MonoBehaviour, IPlayerRespawnListener {
     {
         for(float i = 0; i < EffectTime*10; i++)
         {
-            foreach(var spriteRender in GetComponentsInChildren<SpriteRenderer>())
+            foreach(var spriteRender in renders)
             {
                 spriteRender.enabled = !spriteRender.enabled;
             }

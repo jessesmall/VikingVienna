@@ -16,8 +16,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 25d8a55e6a0798040a37de48f0317d9f, type: 3}
   - {fileID: 8300000, guid: ae848354a172b3248bbe5ebbf7b5363f, type: 3}
   rangedAttackAudio: []
-  jumpAudio:
-  - {fileID: 8300000, guid: 8a5a62616197e7a4e8b209ddefafd75a, type: 3}
+  jumpAudio: []
   deathAudio:
   - {fileID: 8300000, guid: 20fdb4a9580e61a4195c2d14262ff5fc, type: 3}
   hurtAudio: []

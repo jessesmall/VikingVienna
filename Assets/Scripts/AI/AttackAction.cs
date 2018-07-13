@@ -15,7 +15,6 @@ public class AttackAction : Action
     {
         var distanceToPlayer = Mathf.Abs(Vector2.Distance(controller.eyes.position, controller.chaseTarget.position));
         var canAttack = controller.CheckIfCountDownElapsed(controller.enemyStats.attackSpeed);
-        Debug.Log("Distance: " + distanceToPlayer + " CanAttack: " + canAttack);
         if (distanceToPlayer <= controller.enemyStats.attackRange && canAttack)
         {
             var direction = (controller.chaseTarget.position - controller.eyes.position).normalized;
