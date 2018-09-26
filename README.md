@@ -39,7 +39,19 @@ The short answer is sure. The long answer is if you find anything interesting ab
   - [x] Magic
   - [x] Items
 - [ ] Enemies
-  - TBD
+  - [x] Ogres
+  - [ ] Tree Ents
+    - [ ] Spellcaster
+    - [x] Mini-Ent
+    - [ ] Melee
+  - [ ] Gnomes
+  - [ ] Skeletons
+    - [x] Archer
+    - [x] Warrior
+    - [ ] Captain
+  - [ ] Demons
+    - [ ] Melee
+    - [ ] Spellcaster
 - [ ] Levels
   - [x] Chapter 1 (Mountains)
   - [ ] Chapter 2 (Forest)
